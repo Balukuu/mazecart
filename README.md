@@ -1,6 +1,4 @@
-README for SwiftCart: Streamlined Grocery Delivery
-
-Link to the landing page : https://ngwanatuka.github.io/SwiftCart-github.io/
+README for MazeCart: Streamlined Grocery Delivery
 
 ## Team Members
 
